@@ -1,0 +1,2 @@
+conda create -p venv python -y
+tesnsorflow==2.15.0, tensorboard
